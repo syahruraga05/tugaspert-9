@@ -5,8 +5,8 @@ Nim	: 312010354 <br>
 ## Daftar Isi
 | No | Isi | Link |
 | -- | --- | ---- |
-| 1. | Tugas Praktikum 4 | [penjelasan](#Tugas Praktikum 4) |
-| 2. | Tugas Praktikum 5 | [penjelasan](#Tugas Praktikum 5) |
+| 1. | Tugas Praktikum 4 | (#Tugas Praktikum 4) |
+| 2. | Tugas Praktikum 5 | (#Tugas Praktikum 5) |
 
 ### Tugas Praktikum 4
 
