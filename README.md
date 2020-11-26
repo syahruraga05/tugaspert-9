@@ -1,4 +1,4 @@
-## Tugas Melengkapi Pertemuan ke 7
+## Tugas Melengkapi Pertemuan ke 9
 Nama	: Syahru Raga Ramdhani <br>
 Kelas	: TI.20.A.2 <br>
 Nim	: 312010354 <br>
@@ -10,7 +10,7 @@ Nim	: 312010354 <br>
 
 ### Tugas Praktikum 4
 
- **soal** 
+ **Soal** 
 
         Buat program sederhana untuk menambahkan data kedalam sebuah
         list dengan rincian sebagai berikut:
@@ -72,9 +72,9 @@ Berikut *souce code* nya
 
 
 
-### Pratikum 5 
+### Tugas Praktikum 5 
 
-  **soal**
+  **Soal**
 
         Buat program sederhana yang akan menampilkan daftar nilai
         mahasiswa, dengan ketentuan
