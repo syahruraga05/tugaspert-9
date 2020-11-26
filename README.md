@@ -3,15 +3,14 @@ Nama	: Syahru Raga Ramdhani <br>
 Kelas	: TI.20.A.2 <br>
 Nim	: 312010354 <br>
 ## Daftar Isi
-| No | Isi | Link |
-| -- | --- | ---- |
-| 1. | Tugas Praktikum 4 | (#Tugas Praktikum 4) |
-| 2. | Tugas Praktikum 5 | (#Tugas Praktikum 5) |
+| No | Isi |
+| -- | --- |
+| 1. | Tugas Praktikum 4 | 
+| 2. | Tugas Praktikum 5 | 
 
 ### Tugas Praktikum 4
 
  **soal** 
-
 
         Buat program sederhana untuk menambahkan data kedalam sebuah
         list dengan rincian sebagai berikut:
@@ -27,7 +26,7 @@ Nim	: 312010354 <br>
 
 ## Syntax Sebagai Berikut
 
-![gambar](/gambar/Capture.PNG)
+![gambar](/gambar/Capture1.PNG)
 
 ## Lanjutan Syntax diatas
 
@@ -69,7 +68,7 @@ Berikut *souce code* nya
             x += 1
             if data == 't':
                 break
-     
+```     
 
 
 
@@ -165,4 +164,4 @@ Berikut *souce code* nya
 
                 else:
                     print("Pilih menu yang tersedia")
-
+```
